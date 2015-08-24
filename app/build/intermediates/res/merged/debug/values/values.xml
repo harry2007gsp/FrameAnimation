@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Harry/Desktop/Jayawant%20Training/FrameAnimation/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">FrameAnimation</string>
+    <string name="desc">Animation Image</string>
+    <string name="frame">Frame By Frame Animation of 10 Dukes</string>
+    <string name="hello">Hello World, FrameAnimation!</string>
+    <string name="start">Start Duke Animation</string>
+</resources>
